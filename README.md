@@ -13,3 +13,6 @@ Abrir `index.html` en el navegador o utilizar Live Server.
 Thumbs.db
 .vscode/
 node_modules/
+
+## Integrantes
+Felipe Gonzalez
